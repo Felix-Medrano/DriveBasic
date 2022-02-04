@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdf3f2771bee7f142ab38b065ffc12d7, type: 3}
+  m_Name: CarDB
+  m_EditorClassIdentifier: 
+  carros:
+  - id: 0
+    imgCarro: {fileID: 21300000, guid: 0e01dd88e1ca5df44aac7616fd74c7a6, type: 3}
+    imgMoneda: {fileID: 21300000, guid: 7560dfe955c9ffe408f5bf9d6426ed87, type: 3}
+    precio: 0
+    comprado: 1
+    seleccionado: 1
+  - id: 1
+    imgCarro: {fileID: 21300000, guid: 946184a6747be764a800f164c04c70b9, type: 3}
+    imgMoneda: {fileID: 21300000, guid: 7560dfe955c9ffe408f5bf9d6426ed87, type: 3}
+    precio: 10
+    comprado: 0
+    seleccionado: 0
+  - id: 2
+    imgCarro: {fileID: 21300000, guid: a2642dfb1e716384ca65c454b74c4522, type: 3}
+    imgMoneda: {fileID: 21300000, guid: 7560dfe955c9ffe408f5bf9d6426ed87, type: 3}
+    precio: 20
+    comprado: 0
+    seleccionado: 0
+  - id: 3
+    imgCarro: {fileID: 21300000, guid: 51a620a67e6cf584fb2f9beda32876ce, type: 3}
+    imgMoneda: {fileID: 21300000, guid: 7560dfe955c9ffe408f5bf9d6426ed87, type: 3}
+    precio: 30
+    comprado: 0
+    seleccionado: 0
+  - id: 4
+    imgCarro: {fileID: 21300000, guid: fde9b2c92a381e840b7d9d7a047b19bd, type: 3}
+    imgMoneda: {fileID: 21300000, guid: 7560dfe955c9ffe408f5bf9d6426ed87, type: 3}
+    precio: 40
+    comprado: 0
+    seleccionado: 0
+  - id: 5
+    imgCarro: {fileID: 21300000, guid: b21b022fa334a2440a471a66aaa474dd, type: 3}
+    imgMoneda: {fileID: 21300000, guid: 7560dfe955c9ffe408f5bf9d6426ed87, type: 3}
+    precio: 50
+    comprado: 0
+    seleccionado: 0
+  - id: 6
+    imgCarro: {fileID: 21300000, guid: 6f614198c45ba4f4ca37cd63269d967e, type: 3}
+    imgMoneda: {fileID: 21300000, guid: 7560dfe955c9ffe408f5bf9d6426ed87, type: 3}
+    precio: 60
+    comprado: 0
+    seleccionado: 0
+  - id: 7
+    imgCarro: {fileID: 21300000, guid: 9019d1e763e0a654498146cbe4145d9a, type: 3}
+    imgMoneda: {fileID: 21300000, guid: 7560dfe955c9ffe408f5bf9d6426ed87, type: 3}
+    precio: 70
+    comprado: 0
+    seleccionado: 0
+  - id: 8
+    imgCarro: {fileID: 21300000, guid: f2e50b8f9b02f5b44a8630bf8e76d2d8, type: 3}
+    imgMoneda: {fileID: 21300000, guid: 7560dfe955c9ffe408f5bf9d6426ed87, type: 3}
+    precio: 80
+    comprado: 0
+    seleccionado: 0
+  - id: 9
+    imgCarro: {fileID: 21300000, guid: d9bb3ff8f01913e43939303a51f9d654, type: 3}
+    imgMoneda: {fileID: 21300000, guid: 7560dfe955c9ffe408f5bf9d6426ed87, type: 3}
+    precio: 90
+    comprado: 0
+    seleccionado: 0
+  - id: 10
+    imgCarro: {fileID: 21300000, guid: dee5fc1fb1f9c4e42a70f2fa6df765f4, type: 3}
+    imgMoneda: {fileID: 21300000, guid: 7560dfe955c9ffe408f5bf9d6426ed87, type: 3}
+    precio: 100
+    comprado: 0
+    seleccionado: 0
+  - id: 11
+    imgCarro: {fileID: 21300000, guid: 87d122f74fcfd8c4395cc607d42b6260, type: 3}
+    imgMoneda: {fileID: 21300000, guid: 7560dfe955c9ffe408f5bf9d6426ed87, type: 3}
+    precio: 110
+    comprado: 1
+    seleccionado: 0
+  - id: 12
+    imgCarro: {fileID: 21300000, guid: 155919d0088957e48bed2e9c59b85c61, type: 3}
+    imgMoneda: {fileID: 21300000, guid: 7560dfe955c9ffe408f5bf9d6426ed87, type: 3}
+    precio: 120
+    comprado: 0
+    seleccionado: 0
+  - id: 13
+    imgCarro: {fileID: 21300000, guid: 470b66fdf63a63f49ae1eb49935fe3c6, type: 3}
+    imgMoneda: {fileID: 21300000, guid: 7560dfe955c9ffe408f5bf9d6426ed87, type: 3}
+    precio: 130
+    comprado: 0
+    seleccionado: 0
+  - id: 14
+    imgCarro: {fileID: 21300000, guid: f03e15e60aa02214486865e7ce1410b8, type: 3}
+    imgMoneda: {fileID: 21300000, guid: 7560dfe955c9ffe408f5bf9d6426ed87, type: 3}
+    precio: 140
+    comprado: 0
+    seleccionado: 0
+  - id: 15
+    imgCarro: {fileID: 21300000, guid: f8c18026f0a4f8f4db6d99cce1ba9ea0, type: 3}
+    imgMoneda: {fileID: 21300000, guid: 7560dfe955c9ffe408f5bf9d6426ed87, type: 3}
+    precio: 150
+    comprado: 0
+    seleccionado: 0
